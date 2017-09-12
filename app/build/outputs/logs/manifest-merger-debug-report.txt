@@ -1,0 +1,89 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\workbook\swipe_refresh_layout\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from F:\workbook\swipe_refresh_layout\app\src\main\AndroidManifest.xml:3:11-74
+		INJECTED from F:\workbook\swipe_refresh_layout\app\src\main\AndroidManifest.xml
+		INJECTED from F:\workbook\swipe_refresh_layout\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from F:\workbook\swipe_refresh_layout\app\src\main\AndroidManifest.xml
+		INJECTED from F:\workbook\swipe_refresh_layout\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\workbook\swipe_refresh_layout\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from F:\workbook\swipe_refresh_layout\app\src\main\AndroidManifest.xml
+		INJECTED from F:\workbook\swipe_refresh_layout\app\src\main\AndroidManifest.xml
+application
+ADDED from F:\workbook\swipe_refresh_layout\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\86772d710183b84f9910214ed79dc5517f8338ce\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\307dd83e71f27488be5e7b0bdfefc0196bd1162b\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\2abb00902a88ccfc76c0788055491fa03eddd21b\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\d39c7466939605e91ebed09ec6cc6a4c8170d079\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\f01e9c91b212c65fa57af3c276309d467988eca3\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\5ed62f5041cd6084145930bf7f9a5c38572a92e3\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\c7cf3571ef2dd16d8e9668cedb9633875c90038e\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\6ee961e2cea3ee2ddf8fc24c04a3e8c06da5d6e8\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\a46b701811cbfd47dcb382d1874584c56dcda245\output\AndroidManifest.xml:29:5-20
+MERGED from [com.scwang.smartrefresh:SmartRefreshLayout:1.0.3] C:\Users\Administrator\.android\build-cache\0b3716cc473968cf66f013b5050410ae971d429b\output\AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Administrator\.android\build-cache\310df186ee76c769a473b5180621695c31a2647a\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from F:\workbook\swipe_refresh_layout\app\src\main\AndroidManifest.xml:8:13-45
+	android:supportsRtl
+		ADDED from F:\workbook\swipe_refresh_layout\app\src\main\AndroidManifest.xml:10:13-39
+	android:roundIcon
+		ADDED from F:\workbook\swipe_refresh_layout\app\src\main\AndroidManifest.xml:9:13-58
+	android:allowBackup
+		ADDED from F:\workbook\swipe_refresh_layout\app\src\main\AndroidManifest.xml:6:13-39
+	android:icon
+		ADDED from F:\workbook\swipe_refresh_layout\app\src\main\AndroidManifest.xml:7:13-47
+	android:theme
+		ADDED from F:\workbook\swipe_refresh_layout\app\src\main\AndroidManifest.xml:11:13-44
+activity#swipe_refresh_layout.example.com.swipe_refresh_layout.MainActivity
+ADDED from F:\workbook\swipe_refresh_layout\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from F:\workbook\swipe_refresh_layout\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from F:\workbook\swipe_refresh_layout\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from F:\workbook\swipe_refresh_layout\app\src\main\AndroidManifest.xml:14:17-68
+	android:name
+		ADDED from F:\workbook\swipe_refresh_layout\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\workbook\swipe_refresh_layout\app\src\main\AndroidManifest.xml:16:17-76
+	android:name
+		ADDED from F:\workbook\swipe_refresh_layout\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from F:\workbook\swipe_refresh_layout\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\86772d710183b84f9910214ed79dc5517f8338ce\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\307dd83e71f27488be5e7b0bdfefc0196bd1162b\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\2abb00902a88ccfc76c0788055491fa03eddd21b\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\d39c7466939605e91ebed09ec6cc6a4c8170d079\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\f01e9c91b212c65fa57af3c276309d467988eca3\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\5ed62f5041cd6084145930bf7f9a5c38572a92e3\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\c7cf3571ef2dd16d8e9668cedb9633875c90038e\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\6ee961e2cea3ee2ddf8fc24c04a3e8c06da5d6e8\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\a46b701811cbfd47dcb382d1874584c56dcda245\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.scwang.smartrefresh:SmartRefreshLayout:1.0.3] C:\Users\Administrator\.android\build-cache\0b3716cc473968cf66f013b5050410ae971d429b\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Administrator\.android\build-cache\310df186ee76c769a473b5180621695c31a2647a\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\86772d710183b84f9910214ed79dc5517f8338ce\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from F:\workbook\swipe_refresh_layout\app\src\main\AndroidManifest.xml
+		INJECTED from F:\workbook\swipe_refresh_layout\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\workbook\swipe_refresh_layout\app\src\main\AndroidManifest.xml
+		INJECTED from F:\workbook\swipe_refresh_layout\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\86772d710183b84f9910214ed79dc5517f8338ce\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\307dd83e71f27488be5e7b0bdfefc0196bd1162b\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\2abb00902a88ccfc76c0788055491fa03eddd21b\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\d39c7466939605e91ebed09ec6cc6a4c8170d079\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\f01e9c91b212c65fa57af3c276309d467988eca3\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\5ed62f5041cd6084145930bf7f9a5c38572a92e3\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\c7cf3571ef2dd16d8e9668cedb9633875c90038e\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\6ee961e2cea3ee2ddf8fc24c04a3e8c06da5d6e8\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\a46b701811cbfd47dcb382d1874584c56dcda245\output\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\86772d710183b84f9910214ed79dc5517f8338ce\output\AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\86772d710183b84f9910214ed79dc5517f8338ce\output\AndroidManifest.xml:26:9-47
